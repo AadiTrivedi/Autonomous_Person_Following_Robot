@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+*.tflite
+*.egg-info/
+build/
+install/
+log/
