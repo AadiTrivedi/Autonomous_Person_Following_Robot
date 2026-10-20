@@ -1,5 +1,6 @@
 ## Update Log: 
-- the software environment is on the raspberry pi 5, with the dependencies for running the RPLidar. 
+- the software environment is on the raspberry pi 5, with the dependencies for running the RPLidar.
+- The robot is following correctly, nerfed the speed for safety precautions, correctly recognizing when the person has fallen down.
 
 # FollowBot
 
