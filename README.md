@@ -2,6 +2,12 @@
 - the software environment is on the raspberry pi 5, with the dependencies for running the RPLidar.
 - The robot is following correctly, nerfed the speed for safety precautions, correctly recognizing when the person has fallen down.
 
+## Demo Video
+
+[demo video1 taken in a lab showcases the robots following ability](./Followbot-Vid1.mp4)
+
+[demo video2 showcases the ability to recognize when a person a has fallen](./Followbot-Vid2.mov)
+
 # FollowBot
 
 A robot that follows you around and carries your stuff. Also detects if you fall and texts someone for help.
