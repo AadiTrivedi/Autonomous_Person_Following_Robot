@@ -4,9 +4,9 @@
 
 ## Demo Video
 
-[demo video1 taken in a lab showcases the robots following ability](./Followbot-Vid1.mp4)
+[demo video1 taken in a lab showcases the robots following ability](https://youtube.com/shorts/ve9umNwuCiI)
 
-[demo video2 showcases the ability to recognize when a person a has fallen](./Followbot-Vid2.mov)
+[demo video2 showcases the ability to recognize when a person a has fallen](https://youtu.be/UgkGUdYSNao)
 
 # FollowBot
 
